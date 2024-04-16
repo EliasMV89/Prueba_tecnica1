@@ -1,0 +1,7 @@
+Primero el ejecutar el siguiente comando en la terminal de goland:
+
+go get github.com/go-vgo/robotgo
+
+despues importar la paqueteria:
+
+import "github.com/go-vgo/robotgo"
